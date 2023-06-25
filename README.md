@@ -26,7 +26,7 @@ import json
 import aindex as a
 
 # Your OpenAI API key
-OPENAI_API_KEY = 'your-api-key'
+OPENAI_API_KEY = 'your_api_key'
 
 headers = {
     'Content-Type': 'application/json',
