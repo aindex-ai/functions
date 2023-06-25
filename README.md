@@ -19,7 +19,7 @@ To submit a function submit a PR with a .json file in the folder functions. The 
 import aindex as a
 
 # a.function_name_here
-a.sum
+a.get_current_weather
 ```
 
 ### use functions on OpenAI api
