@@ -13,7 +13,11 @@ import aindex as a
 a.sum
 ```
 
-### add functions to OpenAI api
+### use functions on OpenAI api
+
+Use aindex to retrieve the function by name:
+a.function_name_here
+
 ```python
 import requests
 import json
