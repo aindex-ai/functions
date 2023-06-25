@@ -1,2 +1,3 @@
-# functions
-🌀 Reusable AI functions
+# 🌀 Functions
+
+Reusable AI functions
