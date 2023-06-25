@@ -9,7 +9,7 @@ Reusable AI functions
 ```python
 import aindex as a
 
-# a.{{your_function_name}}
+# a.function_name_here
 a.sum
 ```
 
