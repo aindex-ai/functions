@@ -2,6 +2,10 @@
 
 Reusable AI functions
 
+### functions
+
+[get_current_weather](https://github.com/aindex-ai/functions/blob/main/functions/get_current_weather.json)
+
 ### install aindex
 `pip install aindex`
 
