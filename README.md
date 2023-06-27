@@ -1,4 +1,4 @@
-# 🌀 aindex - functions
+# 🌀 Aindex - Functions
 
 Reusable AI functions
 
